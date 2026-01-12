@@ -1,0 +1,19 @@
+{
+  "name": "from_the_other_side",
+  "version": "1.0.0",
+  "description": "Fullstack app for sharing spooky encounters",
+  "homepage": "https://github.com/JatinSatare24/From_the_other_side#readme",
+  "bugs": {
+    "url": "https://github.com/JatinSatare24/From_the_other_side/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JatinSatare24/From_the_other_side.git"
+  },
+  "license": "ISC",
+  "author": "Jatin Satare",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+  }
+}
